@@ -1,7 +1,7 @@
 import requests
 import csv
 
-GITHUB_TOKEN = "secret token"
+GITHUB_TOKEN = "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"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def get_users_in_stockholm():
